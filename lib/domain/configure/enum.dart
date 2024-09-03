@@ -1,0 +1,1 @@
+enum TextFamily { regular, light, bold }
